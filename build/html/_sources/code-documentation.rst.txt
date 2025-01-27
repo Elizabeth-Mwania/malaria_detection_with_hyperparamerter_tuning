@@ -1,8 +1,6 @@
 Code Documentation
 ==================
 
-This document explains the R code used in the Malaria Data Analysis project step by step.
-
 1. **Load Necessary Libraries**
    The first step is to load the required libraries, which provide functions for data preprocessing, visualization, and modeling.
 
@@ -143,12 +141,10 @@ This document explains the R code used in the Malaria Data Analysis project step
 
 ---
 
-### Explanation of Key Metrics
+### Key Metrics
 
 - **Accuracy**: Measures the proportion of correctly classified instances.
 - **Sensitivity (Recall)**: Measures the proportion of actual positives correctly identified.
 - **Specificity**: Measures the proportion of actual negatives correctly identified.
 
 ---
-
-This stepwise documentation explains each step in the R script, making it easy to understand the workflow from data loading to model evaluation. Let me know if you'd like to add further sections or refine this!
